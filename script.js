@@ -4,8 +4,8 @@
 
         // 이모지 목록
         EMOJIS: {
-            "mymoji": "img/mymoji.png",
-            "내이모지": "https://github.com/marktori/CustomEmojis/blob/main/img/%EB%82%B4%EC%9D%B4%EB%AA%A8%EC%A7%80.png",
+            "mymoji": "https://raw.githubusercontent.com/marktori/CustomEmojis/main/img/mymoji.png",
+            "내이모지": "https://raw.githubusercontent.com/marktori/CustomEmojis/main/img/내이모지.png",
             "blobangery": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangery.webp",
             "blobangry": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangry.webp",
             "blobaww": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobaww.webp",
