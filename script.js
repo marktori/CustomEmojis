@@ -4,7 +4,7 @@
 
         // 이모지 목록
         EMOJIS: {
-            "mymoji": "https://i.imgur.com/XbuX4T2.png",
+            "mymoji": "https://i.imgur.com/fvzNg2y_d.webp",
             "내이모지": "https://i.imgur.com/pArCl2m.png",
             "blobangery": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangery.webp",
             "blobangry": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangry.webp",
