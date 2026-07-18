@@ -1,9 +1,10 @@
 {
     const CONFIG = {
-        SCALE: 2, // 이모지의 크기 ex) 폰트 사이즈 * 1.2
+        SCALE: 1.2, // 이모지의 크기 ex) 폰트 사이즈 * 1.2
 
         // 이모지 목록
         EMOJIS: {
+            "mymoji": "https://i.imgur.com/XbuX4T2.png",
             "내이모지": "https://i.imgur.com/pArCl2m.png",
             "blobangery": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangery.webp",
             "blobangry": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangry.webp",
